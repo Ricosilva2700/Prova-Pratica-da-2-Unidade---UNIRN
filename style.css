@@ -11,3 +11,13 @@ img{
     width: 120px;
     border-radius: 50%;
 }
+
+button:hover{
+    background-color: black;
+    color: white;
+
+}
+button:focus{
+    background-color: yellow;
+    color: black;
+}
