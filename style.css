@@ -21,3 +21,7 @@ button:focus{
     background-color: yellow;
     color: black;
 }
+.promo{
+    position: absolute;
+    top: 40px;
+}
